@@ -129,7 +129,7 @@ More global css
   font-size: 1.25rem;
   padding: 1rem 1.7rem;
   /* animation */
-  animation: explore 2.5s linear 1;
+  animation: explore 3s linear 1;
 }
 
 /* content divider */
@@ -198,7 +198,7 @@ Header
   font-family: var(--ff-secondary);
   color: var(--clr-primary);
   /* animation */
-  animation: slideright 2.5s ease-in-out 1;
+  animation: slideright 3s ease-in-out 1;
 }
 
 .banner h2::after {
@@ -218,7 +218,7 @@ Header
   margin-bottom: 2rem;
   font-size: 5rem;
   /* animation */
-  animation: slideleft 2.5s ease-in-out 1;
+  animation: slideleft 3s ease-in-out 1;
 }
 
 /* ===================
